@@ -1,0 +1,79 @@
+[
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 72.5,
+    "calories": 2100,
+    "date": "2026-09-09",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_iuh7wb5",
+    "id": "id_1789464309589_iuh7wb5",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 72.4,
+    "calories": 2226,
+    "date": "2026-09-10",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_nvylwx9",
+    "id": "id_1789464309589_nvylwx9",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 72.2,
+    "calories": 2236,
+    "date": "2026-09-11",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_14iw9mp",
+    "id": "id_1789464309589_14iw9mp",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 71.9,
+    "calories": 2121,
+    "date": "2026-09-12",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_o6ajxui",
+    "id": "id_1789464309589_o6ajxui",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 71.6,
+    "calories": 1986,
+    "date": "2026-09-13",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_me94yz3",
+    "id": "id_1789464309589_me94yz3",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 71.4,
+    "calories": 1956,
+    "date": "2026-09-14",
+    "notes": "Consistent clean nutrition",
+    "_id": "id_1789464309589_1ze97gs",
+    "id": "id_1789464309589_1ze97gs",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "weight": 71.3,
+    "calories": 2058,
+    "date": "2026-09-15",
+    "notes": "Feeling strong, hit new PR on bench",
+    "_id": "id_1789464309590_y5m8ufl",
+    "id": "id_1789464309590_y5m8ufl",
+    "createdAt": "2026-09-15T09:25:09.590Z",
+    "updatedAt": "2026-09-15T09:25:09.590Z"
+  }
+]

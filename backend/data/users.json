@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Alex Rivera",
+    "email": "demo@fittrack.ai",
+    "password": "$2b$10$cZi51QsrTym6j1yCX8kzKeeF1xlFe1C9e/Kofv7mQ4d3cA.NT6iRu",
+    "height": 178,
+    "weight": 73,
+    "goal": "Muscle Gain",
+    "calorieGoal": 2350,
+    "waterGoal": 2800,
+    "stepsGoal": 10000,
+    "caloriesBurnedGoal": 550,
+    "_id": "id_1789464309588_dl8e7yl",
+    "id": "id_1789464309588_dl8e7yl",
+    "createdAt": "2026-09-15T09:25:09.588Z",
+    "updatedAt": "2026-09-15T09:25:09.588Z"
+  }
+]

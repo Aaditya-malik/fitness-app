@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack AI",
+  "description": "Modern and responsive fitness tracking web app with workouts, nutrition, water tracking, progress charts, and smart fitness recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

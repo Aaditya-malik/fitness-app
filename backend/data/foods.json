@@ -1,0 +1,44 @@
+[
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Oatmeal with Blueberries & Whey",
+    "calories": 450,
+    "protein": 32,
+    "carbs": 55,
+    "fats": 8,
+    "mealType": "Breakfast",
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_tv9m1fs",
+    "id": "id_1789464309589_tv9m1fs",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Grilled Chicken Breast & Quinoa",
+    "calories": 620,
+    "protein": 48,
+    "carbs": 60,
+    "fats": 14,
+    "mealType": "Lunch",
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_sujvzq7",
+    "id": "id_1789464309589_sujvzq7",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Greek Yogurt & Almonds",
+    "calories": 250,
+    "protein": 20,
+    "carbs": 12,
+    "fats": 10,
+    "mealType": "Snack",
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_humdf33",
+    "id": "id_1789464309589_humdf33",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Barbell Bench Press",
+    "sets": 4,
+    "reps": 8,
+    "targetMuscle": "Chest",
+    "goal": "Muscle Gain",
+    "completed": true,
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_vgeodnq",
+    "id": "id_1789464309589_vgeodnq",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Incline Dumbbell Press",
+    "sets": 3,
+    "reps": 10,
+    "targetMuscle": "Chest & Shoulders",
+    "goal": "Muscle Gain",
+    "completed": true,
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_7xbws5d",
+    "id": "id_1789464309589_7xbws5d",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Tricep Rope Pushdown",
+    "sets": 3,
+    "reps": 12,
+    "targetMuscle": "Triceps",
+    "goal": "Muscle Gain",
+    "completed": false,
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_7ju445k",
+    "id": "id_1789464309589_7ju445k",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  },
+  {
+    "userId": "id_1789464309588_dl8e7yl",
+    "name": "Hanging Leg Raises",
+    "sets": 3,
+    "reps": 15,
+    "targetMuscle": "Core",
+    "goal": "Muscle Gain",
+    "completed": false,
+    "date": "2026-09-15",
+    "_id": "id_1789464309589_kw9sqjs",
+    "id": "id_1789464309589_kw9sqjs",
+    "createdAt": "2026-09-15T09:25:09.589Z",
+    "updatedAt": "2026-09-15T09:25:09.589Z"
+  }
+]
